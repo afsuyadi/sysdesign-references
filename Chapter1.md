@@ -17,3 +17,6 @@
 12. [Amazon EC2 High Memory Instances](https://aws.amazon.com/ec2/instance-types/high-memory/)
 13. [What it takes to run Stack Overflow](https://nickcraver.com/blog/2013/11/22/what-it-takes-to-run-stack-overflow/)
 14. [What the heck are you actually using NoSQL for?](http://highscalability.com/blog/2010/12/6/what-the-heck-are-you-actually-using-nosql-for.html)
+
+Video :
+[System Design | Chapter 1 - Scale From Zero To Millions Of Users](https://www.youtube.com/watch?v=iXnuWPsiMDE&list=PLa5knmSCeutcg0bUPRqn39c4oyWa0VbCM&index=1)
